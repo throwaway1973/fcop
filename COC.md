@@ -6,7 +6,7 @@ Copyright &copy; 2016 Fantasyland Institute of Learning. All Rights Reserved.
 
 The Fantasyland Institute of Learning Code of Professionalism (FCOP) dictates the terms and conditions under which we allow you to participate in the Community.
 
-The purpose of FCOP is to ensure inclusiveness and productivity in a pluralistic society. To accomplish this goal, we restrict the Community to peaceful people, and protect such people from Discrimination, Harassment, Judgmental Communication, and violations of privacy. 
+The purpose of FCOP is to ensure inclusiveness and productivity in a pluralistic society. To accomplish this goal, we restrict the Community to peaceful people, and protect such people from Discrimination, Stereotyping, Harassment, Judgmental Communication, and violations of privacy. 
 
 FCOP is explicitly not intended to impose any system of politics, morals, or values onto Members.
 
