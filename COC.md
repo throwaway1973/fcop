@@ -1,4 +1,4 @@
-# Fantasyland Institute Code Of Professionalism
+# Fantasyland Institute of Learning - Code Of Professionalism
 
 Copyright &copy; 2016 Fantasyland Institute of Learning. All Rights Reserved.
 
