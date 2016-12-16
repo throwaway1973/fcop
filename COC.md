@@ -59,7 +59,7 @@ During _inactive participation_, you must behave as described in this section.
 
 **Official Resolution**. If you want an official intervention, we will appoint a judge. The judge will speak individually to all parties, including witnesses, before deciding on a course of action, which will involve rejecting the reported violation, or accepting it and imposing a penalty on the _violator_.
 
-**Penalties**. _violators_ may be warned, asked to apologize, forced into training, counseling or mediation, or ejected and banned from the _community_, at the sole discretion of the judge.
+**Penalties**. _Violators_ may be warned, asked to apologize, forced into training, counseling or mediation, or ejected and banned from the _community_, at the sole discretion of the judge.
 
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
