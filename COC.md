@@ -88,7 +88,7 @@ During _inactive participation_, you must behave as described in this section.
     * **Harassment**. Someone has _harassed_ them.
     * **Discrimination**. Someone has _discriminated_ against them.
     * **Stereotyping**. Someone has _stereotyped_ them or a group they belong to.
-    * **Judgmental Communication**. Someone has _communicated judgmentally_ about them, their beliefs, their ideas, their religion, their morals, or their values; or someone has done so about a group to which they belong to.
+    * **Judgmental Communication**. Someone has _communicated judgmentally_ about them, their beliefs, their ideas, their religion, their morals, their values, or things they own or use; or someone has done so about a group to which they belong to.
     * **Breaches of Privacy**. Someone has violated their privacy.
  * **Violator**. We define _violator_ as someone who has broken the terms and conditions of FCOP.
  * **We**. We define "we" to be those who have the actual or legal ability to impose FCOP-prescribed penalties on _violators_ within the physical or virtual boundaries of the _community_.
