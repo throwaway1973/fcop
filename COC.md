@@ -12,11 +12,11 @@ FCOP is explicitly not intended to impose any system of politics, religion, ideo
 
 ## Short-Form
 
-We welcome all peaceful people to participate in the _community_. We do not allow _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We do not exclude any civil people from our _community_ unless they have demonstrated an inability to follow our terms and conditions.
+We welcome all _civil_ people to participate in the _community_. We do not allow _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We do not exclude any _civil_ people from our _community_ unless they have demonstrated an inability to follow our terms and conditions.
 
 ## Welcome Statement
 
-We welcome peaceful people of all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical handicaps, mental handicaps, ages, sizes, political views, religious views, philosophies, beliefs, and attitudes.
+We welcome _civil_ people of all genders, gender-expressions, sexual-orientations, gender-orientations, races, ethnic origins, skin colors, physical handicaps, mental handicaps, ages, sizes, political views, religious views, philosophies, beliefs, and attitudes.
 
 We pledge that we will not tolerate _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We pledge to hold ourselves to these same standards and, in so doing, set a positive example for others to follow.
 
@@ -81,7 +81,7 @@ During _inactive participation_, you must behave as described in this section.
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
  * **Interaction**. We define interaction as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction explicitly does not include opt-in, broadcast-based communication within the Community.
  * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
- * **Members**. We define a member of the _community_ as a peaceful individual who we allow to actively participate in the _community_.
+ * **Members**. We define a member of the _community_ as a _civil_ individual who we allow to actively participate in the _community_.
  * **Stereotyping**. We define stereotyping as behavior that infers or implies one characteristic of an individual based on their [perceived] membership ins some group or category.
  * **Victim**. We define _victims_ as people for whom one or more of the following holds:
 
