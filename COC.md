@@ -82,7 +82,7 @@ During _inactive participation_, you must behave as described in this section.
  * **Interaction**. We define interaction as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction explicitly does not include opt-in, broadcast-based communication within the Community.
  * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
  * **Members**. We define a member of the _community_ as a _civil_ individual who we allow to actively participate in the _community_.
- * **Stereotyping**. We define stereotyping as behavior that infers or implies one characteristic of an individual based on their [perceived] membership ins some group or category.
+ * **Stereotyping**. We define stereotyping as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
  * **Victim**. We define _victims_ as people for whom one or more of the following holds:
 
     * **Harassment**. Someone has _harassed_ them.
