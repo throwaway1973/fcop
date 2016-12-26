@@ -39,7 +39,7 @@ During _active participation_, you must behave as described in this section.
 
 During _inactive participation_, you must behave as described in this section.
 
-* **Be Civil**. Do not engage in criminal activity, and do not sabotage FCOP _communities_ or _member_'s careers for political, religious, ideological, or moral reasons.
+* **Be Civil**. Do not engage in criminal activity, and do not sabotage the _community_ or _member_'s careers for political, religious, ideological, or moral reasons.
 * **Don't Dox**. Do not disseminate any private details about others learned within the _community_ without express permission, including but not limited to real name, address, phone number, or photo identity.
 * **Don't Shame**. You must not negatively discuss a member's behavior inside the _community_ outside of the _community_ without express permission, where discussed _members_ themselves decide what is negative.
 
