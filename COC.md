@@ -72,7 +72,7 @@ During _inactive participation_, you must behave as described in this section.
  * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors:
 
     * **Crimes**. Any criminal behavior in which there is a victim.
-    * **Community Sabotage**. Any behavior (excluding non-violent communication) directed at sabotaging FCOP communities for political, religious, ideological, or moral reasons.
+    * **Community Sabotage**. Any behavior (excluding communication) directed at sabotaging the community for political, religious, ideological, or moral reasons.
     * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for political, religious, ideological, or moral reasons; including attempting to no-platform a _member_ or pressuring an employer to fire a _member_.
  * **Communication**. We define communication as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed penalties on _violators_.
