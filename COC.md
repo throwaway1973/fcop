@@ -35,13 +35,17 @@ During _active participation_, you must behave as described in this section.
 * **Don't Obstruct**. Do not attempt to disrupt communication between members, the activity of members, or the congregation of members.
 * **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors. If someone appears to be communicating judgmentally ("Coffee is good"), assume they did so only as a shorthand way of speaking, and ask them to clarify what objective metrics and subjective preferences they are implying ("I like coffee").
 
+These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements so long as that behavior occurs in other communities.
+
 ### Inactive Participation
 
 During _inactive participation_, you must behave as described in this section.
 
 * **Be Civil**. Do not engage in criminal activity, and do not sabotage the _community_ or _member_'s careers for political, religious, ideological, or moral reasons.
 * **Don't Dox**. Do not disseminate any private details about others learned within the _community_ without express permission, including but not limited to real name, address, phone number, or photo identity.
-* **Don't Shame**. You must not negatively discuss a member's behavior inside the _community_ outside of the _community_ without express permission, where discussed _members_ themselves decide what is negative.
+* **Don't Shame**. You must not negatively communicate about a member's behavior (which occurred inside the _community_, or which you learned about while inside the _community_) with anyone outside the _community_ without express permission of the discussed _members_, where discussed _members_ themselves decide what is negative.
+
+These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the community.
 
 ## Privacy
 
@@ -53,7 +57,7 @@ During _inactive participation_, you must behave as described in this section.
 
 **No Victimless Crime**. If you are a _victim_ but you do not feel victimized, you may choose to not report the _violation_. In this case, we will not treat the incident as a violation.
 
-**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by Victims. Inactive Participation violations may be reported at any time, and by anyone, even non-_members_.
+**Reporting Process**. _Active participation_ violations must be reported to us within 15 days by _victims_, and may not be reported by third-parties. Inactive Participation violations may be reported at any time, and by anyone, even non-_members_.
 
 **Unofficial Resolution**. For minor offenses and in cases where they prefer doing so, we encourage _victims_ to speak to _violators_, using the language of non-violent communication (NVC). If you would like to do this with the help of an independent mediator, contact us and we will arrange for one.
 
@@ -64,6 +68,10 @@ During _inactive participation_, you must behave as described in this section.
 **Social Rehabilitation**. No one can be banished for life, only for a determined number of years, not to exceed 5 years. Formerly banned parties can be reintegrated into the _community_ through a rehabilitation process determined by us.
 
 **Confidentiality**. Reporting a violation is a confidential process. We will not publish information on any reported incident or the parties involved in the incident. Note that criminal behavior of any kind will not be kept confidential.
+
+## Disputes
+
+In the event there is a dispute about the meaning of any term or clause in FCOP, we alone will clarify the intent.
 
 ## Terms
 
