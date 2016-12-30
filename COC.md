@@ -12,7 +12,7 @@ FCOP is explicitly not intended to impose any system of politics, religion, ideo
 
 ## Short-Form
 
-We welcome all _civil_ people to participate in the _community_. We do not allow _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We do not exclude any _civil_ people from our _community_ unless they have demonstrated an inability to follow our terms and conditions.
+We welcome all _civil_ people to participate in the _community_. We do not allow _discrimination_, _harassment_, _judgmental communication_, or _breaches of privacy_. We do not exclude any _civil_ people from our _community_ unless they have been banned by us for a _violation_ of these terms and conditions.
 
 ## Welcome Statement
 
@@ -29,13 +29,13 @@ We greatly value integrity and pledge to establish the highest levels of trust i
 During _active participation_, you must behave as described in this section.
 
 * **Don't Stereotype**. Treat everyone as unique. Do not infer characteristics of a person based on their [perceived] membership in some group or category.
-* **Don't Communicate Judgmentally**. You must not communicate the idea that any person, place, thing, idea, or action is superior or inferior to any other. Instead, talk about observations, models, analyses, and your own personal preferences.
+* **Don't Communicate Judgmentally**. You must not communicate the idea that any person, place, thing, idea, or action is superior or inferior to any other. Instead, talk about observations, analyses, models, and your own personal preferences.
 * **Don't Harass**. Do not interact with anyone who does not consent. For verbal and written interaction you may assume consent for the first interaction, until the recipient communicates otherwise. For physical interaction, close physical proximity, and persistent gaze, you must assume non-consent until the person clearly and unambiguously communicates otherwise.
 * **Don't Pry**. Do not go out of your way to read, watch, or listen to the private communications of other members (including trying to read their screens or listening to their private conversations). If you do read or overhear a private conversation, do not share it.
 * **Don't Obstruct**. Do not attempt to disrupt communication between members, the activity of members, or the congregation of members.
-* **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors. If someone appears to be communicating judgmentally ("Coffee is good"), assume they did so only as a shorthand way of speaking, and ask them to clarify what objective metrics and subjective preferences they are implying ("I like coffee").
+* **Assume the Best**. Assume the best intention when others communicate with you. If you don’t understand what someone meant, or have questions about it, ask them directly rather than speculating or spreading rumors. If someone appears to be communicating judgmentally ("Coffee is good"), assume they did so only as a shorthand way of speaking, and ask them to clarify what objective metrics and personal predictions and preferences they are implying ("I like coffee").
 
-These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements so long as that behavior occurs in other communities.
+These requirements on behavior apply to _members_ only while they are actively participating in the _community_. The standing of _members_ is unaffected by behavior that does not comply with these requirements if this behavior occurs in other communities.
 
 ### Inactive Participation
 
@@ -43,9 +43,9 @@ During _inactive participation_, you must behave as described in this section.
 
 * **Be Civil**. Do not engage in criminal activity, and do not sabotage the _community_ or _member_'s careers for political, religious, ideological, or moral reasons.
 * **Don't Dox**. Do not disseminate any private details about others learned within the _community_ without express permission, including but not limited to real name, address, phone number, or photo identity.
-* **Don't Shame**. You must not negatively communicate about a member's behavior (which occurred inside the _community_, or which you learned about while inside the _community_) with anyone outside the _community_ without express permission of the discussed _members_, where discussed _members_ themselves decide what is negative.
+* **Don't Shame**. You must not negatively communicate about a member's behavior (which occurred inside the _community_, or which you learned about while inside the _community_) with anyone outside the _community_ without express permission of the discussed _members_, where the discussed _members_ themselves decide what is negative.
 
-These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the community.
+These requirements on behavior apply to _members_ at all times, even when they are not actively participating in the _community_.
 
 ## Privacy
 
@@ -75,22 +75,22 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
 
 ## Terms
 
- * **Active Participation**. We define Active Participation to include the behavior of members while they are in the boundaries of the _community_.
- * **Behavior**. We define behavior to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
- * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors:
+ * **Active Participation**. We define _active participation_ to include the behavior of members while they are in the boundaries of the _community_.
+ * **Behavior**. We define _behavior_ to include all and only observable actions of people, and to explicitly exclude any private thoughts, beliefs, ideas, attitudes, morals, and emotions.
+ * **Civil**. We define civil individuals as individuals who, in our sole estimation, do not and will not engage in the following behaviors during _active participation_ or _inactive participation_:
 
     * **Crimes**. Any criminal behavior in which there is a victim.
     * **Community Sabotage**. Any behavior (excluding non-violent communication) directed at sabotaging the community for political, religious, ideological, or moral reasons.
     * **Professional Sabotage**. Any behavior directed at sabotaging a _member_'s career for political, religious, ideological, or moral reasons; including attempting to no-platform a _member_ or pressuring an employer to fire a _member_.
- * **Communication**. We define communication as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
+ * **Communication**. We define _communication_ as any transmission of information between people, including but not limited to verbal, written, electronic, pictorial, gestural, and tactile.
  * **Community**. We define our _community_ as a group of people with a shared professional interest that exists at some location (online or geographical) and within some span of time. The boundaries of the community are dictated by us, but cannot extend in space or time to any place where we do not have the actual or legal ability to impose FCOP-prescribed penalties on _violators_.
  * **Discrimination**. We define _discrimination_ as any favoritism shown or withheld to someone either on the basis of a stereotype or a non-community related group membership.
  * **Harassment**. We define _harassment_ as an attempt to interact with someone who does not consent to the interaction.
  * **Inactive Participation**. We define _inactive participation_ to include the behavior of members at all times and under all circumstances.
- * **Interaction**. We define interaction as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction explicitly does not include opt-in, broadcast-based communication within the Community.
- * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
- * **Members**. We define a member of the _community_ as a _civil_ individual who we allow to actively participate in the _community_.
- * **Stereotyping**. We define stereotyping as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
+ * **Interaction**. We define _interaction_ as any one-on-one communication, physical contact (with person or property), close proximity, or persistent gaze. Interaction does not include opt-in, broadcast-based communication within the Community.
+ * **Judgmental Communication**. We define _judgmental communication_ as any communication which asserts or implies that something has intrinsic superiority or inferiority to something else. This includes all forms of name-calling, but explicitly excludes any language that qualifies as non-violent communication (NVC).
+ * **Members**. We define a _member_ of the _community_ as a _civil_ individual who we allow to actively participate in the _community_.
+ * **Stereotyping**. We define _stereotyping_ as behavior that infers or implies one characteristic of an individual based on their [perceived] membership in some group or category.
  * **Victim**. We define _victims_ as people for whom one or more of the following holds:
 
     * **Harassment**. Someone has _harassed_ them.
@@ -99,4 +99,4 @@ In the event there is a dispute about the meaning of any term or clause in FCOP,
     * **Judgmental Communication**. Someone has _communicated judgmentally_ about them, their beliefs, their ideas, their religion, their morals, their values, or things they own or use; or someone has done so about a group to which they belong to.
     * **Breaches of Privacy**. Someone has violated their privacy.
  * **Violator**. We define _violator_ as someone who has broken the terms and conditions of FCOP.
- * **We**. We define "we" to be those who have the actual or legal ability to impose FCOP-prescribed penalties on _violators_ within the physical or virtual boundaries of the _community_.
+ * **We**. We define _we_ to be those who have the actual or legal ability to impose FCOP-prescribed penalties on _violators_ within the physical or virtual boundaries of the _community_.
