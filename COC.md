@@ -49,7 +49,7 @@ These requirements on behavior apply to _members_ at all times, even when they a
 
 ## Privacy
 
-**Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication is not bound by FCOP, we expect all communication that can be seen or overheard by other members will comply with the requirements of FCOP.
+**Semi-Private Communication**. During _active participation_, you may take phone calls, direct messages, emails, and other semi-private forms of communication. Although private communication with people outside of the community is not bound by FCOP, we expect all communication that can be seen or overheard by other members will comply with the requirements of FCOP.
 
 **Private Consumption**. During _active participation_, you may consume material on your own personal devices and from your own channels of communication, and this material does not have to conform to FCOP, assuming the material is not easily discernible to others.
 
